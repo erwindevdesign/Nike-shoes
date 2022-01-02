@@ -1,5 +1,5 @@
 body{
-    color: blue;
+    color: palevioletred;
     text-align: center;
     font-family:'Trebuchet MS';
     font-size: 16px;
@@ -36,5 +36,5 @@ body{
 }
 
 #post{
-
+    padding: 1em;
 }
