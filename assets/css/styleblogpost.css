@@ -1,5 +1,9 @@
 body{
+<<<<<<< HEAD
     color: palevioletred;
+=======
+    color: darkviolet;
+>>>>>>> cabecera
     text-align: center;
     font-family:'Trebuchet MS';
     font-size: 16px;
@@ -36,5 +40,10 @@ body{
 }
 
 #post{
+<<<<<<< HEAD
     padding: 1em;
 }
+=======
+    padding: 2em;
+}  
+>>>>>>> cabecera
