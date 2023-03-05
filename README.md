@@ -6,20 +6,20 @@
 
 ## Introduction :rocket:
 
-This card is a practice for HTML & CSS integration, with effects like **:hover** and **cursor:** in the cursor move.
+This card is a practice for integrating HTML and CSS, including effects like **:hover** and **cursor:** with cursor: with cursor movement.
 
 
 ## Built With :hammer_and_wrench:
 
 - **HTML**
-- **CSS** (variables colors & font size)
+- **CSS** (with color variables an font sizes)
 - **:hover** effect
 - **cursor: pointer;**
 
-## Pre-requirements :clipboard:
+## Prerequisites :clipboard:
 
-Dowload the assets directory at the next link: 
+Dowload the assets directory at the following link: 
 
 ### :link: [link](https://cdrive.page.link/FhGqdgH45oyNk14q7)
 
-The **assets** directory is a placed at the raiz of the project. 
+The **assets** directory should be placed in the **working directory** of the project. 
